@@ -2,6 +2,7 @@
   <div class="about">
     <h1>This is an about page</h1>
     <h4>{{ name }}</h4>
+    <h5>{{ $t("name") }}</h5>
   </div>
 </template>
 
